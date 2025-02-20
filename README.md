@@ -53,5 +53,5 @@ pip install matplotlib
 ---
 
 ## 📜 License
-This project is **open-source** and can be used/modified for **educational and personal purposes**. ⭐ Happy Coding!
+This project is **open-source** and can be used/modified for **educational and personal purposes**. 
 
